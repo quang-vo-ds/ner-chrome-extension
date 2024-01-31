@@ -1,0 +1,8 @@
+torch
+numpy
+requests
+bs4
+fastapi
+uvicorn[standard]
+datasets
+click
